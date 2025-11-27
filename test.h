@@ -10,5 +10,7 @@ public:
 
 signals:
 	void sendSignal();
+	void sendSignal2();
+
 };
 #endif
