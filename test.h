@@ -11,6 +11,6 @@ public:
 signals:
 	void sendSignal();
 	void sendSignal2();
-
+	void sendSignal1();
 };
 #endif
