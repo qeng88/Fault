@@ -6,6 +6,7 @@
 #include <QVector>
 #include <QTimer>
 #include <QSet>
+#include <QDebug>
 
 class FaultManager : public QObject
 {

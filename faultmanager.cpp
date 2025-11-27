@@ -78,11 +78,6 @@ void FaultManager::clearAllFaults()
     updateFaultList();
 }
 
-// 删除 checkFaultTimeout 函数
-// void FaultManager::checkFaultTimeout()
-// {
-//     // ... 原有代码
-// }
 
 void FaultManager::updateFaultList()
 {
