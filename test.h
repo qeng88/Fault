@@ -9,6 +9,6 @@ public:
     explicit Test(QObject *parent = nullptr);
 
 signals:
-
+	void sendSignal();
 };
 #endif
